@@ -1,0 +1,3 @@
+This is a single page canvas experiment starting point. It's based on Javascript, HTML, CSS, jQuery, and Bootstrap (with a dark theme).
+
+TODO: Replace this file and all TODOs with project specifics...
